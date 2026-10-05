@@ -7,3 +7,8 @@ outputs/
 *.mov
 wandb/
 .ipynb_checkpoints/
+.venv*/
+models/
+*.pkl
+*.ckpt
+*.egg-info/
